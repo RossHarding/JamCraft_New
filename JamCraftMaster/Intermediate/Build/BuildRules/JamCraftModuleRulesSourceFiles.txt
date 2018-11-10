@@ -1,0 +1,2 @@
+D:\JamCraftProject\JamCraftMaster\Intermediate\Source\JamCraft.Build.cs
+D:\JamCraftProject\JamCraftMaster\Intermediate\Source\JamCraft.Target.cs
